@@ -15,3 +15,6 @@ Cuando se habla de postres se entiende alguna preparación dulce, bien sean crem
 - Zumos, .
 - El chocolate caliente .
 
+## Consejos
+- Usa ingredientes frescos: Los ingredientes frescos y a temperatura ambiente ayudan a mantener la textura y consistencia del postre
+- Mide con precisión: Cada gramo de más o de menos puede afectar el sabor o la textura del postre. .
