@@ -15,3 +15,6 @@ La carne es un alimento que se obtiene del tejido muscular de animales terrestre
 - Zumos, .
 - Cervezas .
 
+## Consejos
+- Elimina la grasa visible antes de cocinar. .
+- Usa termómetros para controlar la temperatura de cocción. .
