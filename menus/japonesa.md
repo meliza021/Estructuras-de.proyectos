@@ -14,3 +14,6 @@ La cocina italiana es famosa por sus sabores frescos y auténticos, basados en i
 - Shochu.
 - Té Oolong.
 
+## Consejos
+- Iniciar y terminar la comida: Al comenzar, puedes decir "itadakimasu", que significa "buen provecho". Al terminar, puedes decir "gochisou-sama". 
+-  Acerca el plato a la boca, no al contrario. 
