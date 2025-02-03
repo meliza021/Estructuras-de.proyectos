@@ -15,3 +15,7 @@ La dieta estilo mediterráneo tiene menos carnes y carbohidratos que una dieta e
 - el agua .
 - vino.
 - los licores .
+
+## Consejos
+- La comida mediterránea se caracteriza por el consumo de frutas, verduras, legumbres, cereales integrales, y pescado. 
+- Consumir una variedad de frutas y verduras frescas. 
