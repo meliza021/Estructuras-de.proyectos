@@ -16,3 +16,12 @@ Los chilaquiles son pequeñas tortillas de maíz triangulares que tienen una sal
 
 - **Chiles en Nogada**
 El chile en nogada es un plato típico de la ciudad de Puebla, pero lo puedes encontrar en muchas partes de México, ya que ha alcanzado nivel nacional. Esta comida es un chile poblado a la parrilla, rellena de picadillo, cubierto con una rica salsa de crema hecha de nueces, perejil picadito y granos de granada.
+
+## Bebidas Recomendadas
+
+- Agua de Jamaica
+- horchata
+- ponche
+- café de olla 
+- rompope
+
