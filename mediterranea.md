@@ -11,3 +11,7 @@ La dieta estilo mediterráneo tiene menos carnes y carbohidratos que una dieta e
 - **Hummus:** Un dip libanés a base de garbanzos, tahini, aceite, jugo de limón y ajo. Se suele untar en pan pita. 
 
 
+## Bebidas Recomendadas
+- el agua .
+- vino.
+- los licores .
