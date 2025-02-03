@@ -15,3 +15,6 @@ La comida india es conocida por su gran variedad de sabores, colores y aromas. S
 - Masala chai.
 - Nimbu pani.
 
+## Consejos
+- La gastronomía de un país es la manera perfecta, no solo para disfrutar de una buena comida, sino que también para conocer la cultura y costumbres del lugar al que viajas.
+- Si has llegado hasta aquí probablemente estés planificando tu viaje a este fascinante país.
