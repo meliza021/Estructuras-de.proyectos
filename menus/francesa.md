@@ -11,3 +11,8 @@ La comida francesa se caracteriza por su refinamiento, variedad, y elegancia. Se
 - **ANCAS DE RANA:**Puede que algunas personas piensen que la comida francesa es algo extraña. Primero caracoles y ahora ancas de rana, ¿por qué comerían eso? No podemos negar que Francia es toda una potencia culinaria, así que en este caso es mucho mejor dejar los prejuicios a un lado para probar alimentos distintos y deliciosos.
 
 
+## Bebidas Recomendadas
+- Vino .
+- Armagnac.
+- Calvados.
+
