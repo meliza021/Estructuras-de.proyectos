@@ -21,4 +21,4 @@ Bienvenido a la **Guía de Menús Gastronómicos**, una recopilación de menús 
 2. Sigue las instrucciones y recomendaciones para preparar los platos.
 3. ¡Disfruta de una experiencia culinaria única!
 ​
-¡Esperamos que encuentres útil esta guía y que disfrutes preparando estas recetas! 🍽️
+¡Esperamos que encuentres útil esta guía y que disfrutes preparando estas recetas! 🍽️.
