@@ -25,3 +25,6 @@ El chile en nogada es un plato típico de la ciudad de Puebla, pero lo puedes en
 - café de olla 
 - rompope
 
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
