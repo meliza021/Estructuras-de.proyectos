@@ -10,3 +10,8 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - **Falafel**Un platillo fácil y favorito en el menú de cualquier persona que siga una dieta vegetariana. Estas tiernas bolitas o albóndigas, elaboradas a base de ingredientes como el garbanzo, el ajo, la cebolla y el cilantro, son deliciosas y combinan a la perfección con un picnic casual o una cena importante.
 - **Rollitos primavera:** Esta receta es clásica, pero no por eso menos adecuada para un evento que amerite un plato gourmet. Cuantas más verduras incluyas en el relleno, mejor.
 
+## Bebidas Recomendadas
+- el agua .
+- Zumos, .
+- Cervezas .
+
