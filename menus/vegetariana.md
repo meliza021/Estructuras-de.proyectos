@@ -15,3 +15,6 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - Zumos, .
 - Cervezas .
 
+## Consejos
+- Consumir una variedad de alimentos de origen vegetal.
+- Combinar cereales con legumbres, que aportan proteínas y minerales.
