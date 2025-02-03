@@ -15,3 +15,6 @@ se le da un sentido del gusto con las artes culinarias basándose en la belleza 
 - Té.
 - Vino.
 
+## Consejos
+- El Consejo de Estado es el órgano ejecutivo y administrativo del país. También se le conoce como el Gobierno Popular Central. 
+- La comida china se caracteriza por el equilibrio de sabores, el uso de ingredientes frescos y locales, y la diversidad regional. 
