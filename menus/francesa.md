@@ -16,3 +16,6 @@ La comida francesa se caracteriza por su refinamiento, variedad, y elegancia. Se
 - Armagnac.
 - Calvados.
 
+## Consejos
+- Ir al mercado: Los franceses suelen ir al mercado para comprar frutas, verduras, platos cocinados, especias, hierbas y productos regionales. 
+- Los franceses suelen comer a horas fijas y sentados. 
