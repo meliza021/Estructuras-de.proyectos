@@ -10,3 +10,8 @@ Cuando se habla de postres se entiende alguna preparación dulce, bien sean crem
 - **Rosquillas polacas** Chelados, bombones, etc. Por extensión se denomina postre a cualquier comida dulce inclus
 - **Pastel de nata, Portugal.:** si su objetivo no es ser ingerida al final de la comida. Algunos ejemplos son las galletas, chocolates y magdalenas.
 
+## Bebidas Recomendadas
+- café .
+- Zumos, .
+- El chocolate caliente .
+
