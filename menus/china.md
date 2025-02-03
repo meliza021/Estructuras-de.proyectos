@@ -10,3 +10,8 @@ se le da un sentido del gusto con las artes culinarias basándose en la belleza 
 - **Pollo con almendras:**Un plato tradicional que consiste en pollo frito con una salsa cremosa de soja, jengibre y almendras. 
 - **Sopa de wonton:**Una sopa que se prepara con trozos de masa de harina de trigo rellenos de carne, cebolla, gambas, jengibre y soja
 
+## Bebidas Recomendadas
+- Baijiu.
+- Té.
+- Vino.
+
